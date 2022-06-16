@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE myCode [
+        <!ELEMENT family (to, from, subject, message)>
+        <!ELEMENT to (#PCDATA)>
+        <!ELEMENT from (#PCDATA)>
+        <!ELEMENT subject (#PCDATA)>
+        <!ELEMENT message (#PCDATA)>
+        ]>
+
+<myCode>
+    <to>My friend</to>
+    <from>Thuy</from>
+    <subject>Hey Pro</subject>
+    <message>Good morning</message>
+</myCode>

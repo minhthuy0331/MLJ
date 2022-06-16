@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<codelean xml="https://www.codelean.vn">
+    xmlns:xsi="https://www.w3.org/2021/XMLSchema-instance"
+    xsi:schemaLocation="https:www.codelean.vn XMLSchema.xsd"
+    <to>My friend</to>
+    <from>Linda</from>
+    <subject>A Message to my friend</subject>
+    <message>Welcome to my house</message>
+</codelean>
