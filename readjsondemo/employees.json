@@ -1,0 +1,16 @@
+[
+  {
+    "employee": {
+      "firstName": "Bui",
+      "lastName": "Thi Thuy",
+      "website": "codelean.vn"
+    }
+  },
+  {
+    "employee": {
+      "firstName": "Code",
+      "lastName": "Lean",
+      "website": "codelean.com"
+    }
+  }
+]
